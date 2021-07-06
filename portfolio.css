@@ -8,6 +8,40 @@ div img{
 .half{
     width: 50%;
 }
+span{
+    color: orangered;
+}
+.full{
+    margin: 50px;
+}
+.skip{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 150;
+    font-size: 130%;
+}
+.order{
+    border-style: none;
+    background-image: linear-gradient(orange,red);
+    padding: 5px 10px;
+    border-radius: 6px;
+    color: palegoldenrod;
+    
+}
+.about{
+    padding-left: 400px;
+    padding-top: 100px;
+    overflow: visible;
+    height: 200px;
+    width:400px ;
+}
+.image2{
+    padding-left: 100px;
+}
+.background{
+    background-image: url("7.png");
+}
+
+
 .myrecipies{
     text-align: center;
 }
