@@ -1,5 +1,6 @@
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 div img{
     height: 400px;
@@ -44,10 +45,53 @@ span{
 
 .myrecipies{
     text-align: center;
+    
+    
+    
 }
 .firstone{
-    border-style:solid;
+    
+    background-color: cornsilk;
+    
+    border-radius: 20px;
+    padding: 30px;
+    margin-left: 80px;
+    box-shadow: 5px 5px 5px gray;
+    
+    
+    
+    
 }
 .secto{
     width: 33%;
+    padding:100px;
+} 
+.img{
+    height: 250px;
+    width: 250px;
 }
+.youtube{
+    background-color:cornsilk;
+    box-sizing: 40px 80px;
+    margin: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px gray;
+    padding-top: -initial;
+
+}
+.you{
+    padding:80px;
+    margin-left:80px;
+
+}
+footer{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: blanchedalmond;
+    background-size: contain;
+    padding-bottom: 70px;
+    
+    
+}
+
