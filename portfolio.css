@@ -1,3 +1,19 @@
-.hi{
-    color: blue;
+section{
+    display: flex;
+}
+div img{
+    height: 400px;
+    width: 300px;
+}
+.half{
+    width: 50%;
+}
+.myrecipies{
+    text-align: center;
+}
+.firstone{
+    border-style:solid;
+}
+.secto{
+    width: 33%;
 }
